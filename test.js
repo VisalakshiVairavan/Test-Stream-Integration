@@ -1,5 +1,5 @@
 function test(){
-  alert("Test1");
+  alert("Test123");
 }
 function test1(){
   alert("Test123");
