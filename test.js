@@ -7,3 +7,6 @@ function test1(){
 function test1(){
   alert("Test1234");
 }
+function test1(){
+  alert("Test1234");
+}
